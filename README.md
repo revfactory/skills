@@ -1,6 +1,7 @@
 # Claude Code Skills
 
-Robin이 만들어 사용하는 Claude Code Skill 모음입니다.
+Robin이 만들어 사용하는 Claude Code Skill 모음입니다.   
+잘 활용해주세요!
 
 ## Skills 목록
 
